@@ -6,7 +6,7 @@ const app = express();
 const connect = async () => {
   try {
     await mongoose.connect(
-      "mongodb+srv://richie:richie@cluster0.rphiz.mongodb.net/urlShortner",
+      "mongodb+srv://suhasvpsuhas:pON4g5r0GzF6Vvrr@cluster0.92m2x41.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       {
         useNewUrlParser: true,
         useUnifiedTopology: true,
